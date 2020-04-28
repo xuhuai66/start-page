@@ -1,0 +1,2 @@
+<view wx:if="{{show_button}}" class="count_botton fade_in" bindtap="switchTab">跳过{{count}}s</view>
+<image class="bg_img" src="{{bg_img}}"></image>
